@@ -1,4 +1,4 @@
-# Run standalone scripts remoley to access Wordpress Cookie based authentification .
+# Run standalone scripts remotely to access Wordpress Cookie based authentification .
 
 ---------------------------------------------------------------------------------------------------------------------------
 
