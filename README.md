@@ -4,7 +4,7 @@
 
 #### Three types of scripts :
 
-**Will login to a Wordpress instance as aithorized user. **
+**Will login to a Wordpress instance as authorized user. **
 
 1.  Python : wplogin.py - Needs request module. 
 
